@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContentProviders</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_relationship">Contact Relationship</string>
+    <string name="primary_number">Primary Number</string>
+    <string name="secondary_number">Secondary Number</string>
+    <string name="insert">Insert</string>
+</resources>
